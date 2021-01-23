@@ -1,0 +1,20 @@
+.cekbok {
+  width: 100vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2% 10%;
+}
+.cekbok_page {
+  width: 70vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  background-color: lightcoral;
+  border-radius: 25px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "type": "radio",
+    "soal": "Siapakah penemu baling-baling bambu",
+    "a": "Doraemon",
+    "b": "hanif",
+    "c": "nobita",
+    "d": "naruto",
+    "jawab": "a"
+  }
+]
